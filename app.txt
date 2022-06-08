@@ -1,2 +1,4 @@
 Implementación de línea de texto.
 Otra línea.
+
+Nuevas líneas.
